@@ -14,6 +14,7 @@ pip install -r requirements.txt
 
 ## It is recommended to connect the circuit to an Arduino UNO R3 as shown in the image below.
 
+![รูปภาพ1](https://user-images.githubusercontent.com/92577933/225352170-8a50f4ae-4b2e-4a03-9f74-139046e985d4.jpg)
 
 ## Datasets
 
